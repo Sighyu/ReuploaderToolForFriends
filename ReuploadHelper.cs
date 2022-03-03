@@ -14,7 +14,7 @@ namespace ReuploaderToolForFriends
     internal class ReuploadHelper
     {
         internal static object FriendlyName = "KeafyIsHere";
-        internal static string UnityVersion = "2021.1.1p1-1170--Release";
+        internal static string UnityVersion = "2022.1.1p1-1170--Release";
         internal static string ClientVersion;
         private string fakemac;
         private VRChatApiClient apiClient;
