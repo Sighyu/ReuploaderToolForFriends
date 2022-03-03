@@ -25,10 +25,7 @@ namespace ReuploaderToolForFriends
                 string userpass = Console.ReadLine();
                 File.AppendAllText("Login.txt", userpass);
             }
-            //this is basic example
-            //client devs who will most likly copy paste like everything you guys do can use users login in registry just decrypt it just like how auth token is storred in registry
-            //look at VRCCore-Standalone.dll in sdk on how it gets users login and decrypts it
-            //for people who are worried about getting logged by ^ you can change encryption key and even delete subkey in registry every now and then idk
+            
             ReuploadHelper rh = new(File.ReadAllText("Login.txt"));
             DownloadHelper.Setup();
 
