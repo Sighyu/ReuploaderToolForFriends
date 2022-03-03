@@ -16,5 +16,7 @@ You can farm credits to buy avatars from ripper.store using [this](https://githu
 Join my discord to show me how much you hate or love me for releasing this
 [Click Me](https://discord.gg/uBQ2256Td8)
 
+## Licence
+All Licence files can be located in licence folder
 
 ![enter image description here](https://media.discordapp.net/attachments/854410284038750218/917120140800315443/JyK1uc9E.gif)
