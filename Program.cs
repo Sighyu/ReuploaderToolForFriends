@@ -68,6 +68,9 @@ namespace ReuploaderToolForFriends
                         Console.WriteLine("Please wait downloading image...");
                          imagepath = DownloadHelper.DownloadToRandomPath(imagepath);
                     }
+                    Console.WriteLine(assetpath);
+                    Console.WriteLine(imagepath);
+                    Console.ReadLine();
                     await rh.ReUploadAvatarAsync(name, assetpath, imagepath);
                     break;
                 case "2":
