@@ -1,8 +1,12 @@
 # Reuploader tool for Friends!
 VRChat will prob figure out a way to detect this and ban bad peeps so use at own risk.
 
+
+
 # Methods of uploading
 ## 1. Manual Upload
+Manual is broken to lazy to fix hf xD
+
 Manual method either takes file path location or url location eg friend sends vrca over discord or sends direct api link to file
 
 ## 2. Ripper.store API
